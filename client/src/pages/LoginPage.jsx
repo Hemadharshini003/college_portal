@@ -236,7 +236,7 @@ function LoginPage() {
                 </button>
             </div>
             <p style={{ marginTop: '25px', color: '#B0B0B0', fontSize: '0.8rem' }}>
-                Powered by Neroca Crew
+                Powered by Nexora Crew
             </p>
         </div>
     );
